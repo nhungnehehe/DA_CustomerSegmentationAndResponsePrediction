@@ -41,7 +41,7 @@ with <strong>Power BI visualizations</strong> to generate actionable insights fo
 │   ├── Group05_FinalReport.pdf
 │   └── Group05_FinalReport.docx
 │
-└── Readme.docx
+└── Readme.md
 </pre>
 
 <h2>3. Component Descriptions</h2>
